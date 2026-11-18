@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-11-18T07:50:43-05:00",
+  "prices_updated": "2026-11-18T07:50:43-05:00",
+  "snapshot_note": "Desk initialized. Awaiting first scan.",
+  "status": {
+    "state": "idle",
+    "last_scan": "2026-11-18T07:50:43-05:00",
+    "next_scan": "2026-11-18T08:50:43-05:00",
+    "activity": [],
+    "alerts_used_today": 0,
+    "alert_cap": 3,
+    "x_reads_left_today": 1000
+  },
+  "alerts": [],
+  "watchlist": [],
+  "prelaunch_updates": [],
+  "digest": {
+    "date": "2026-11-18",
+    "top3": [],
+    "ai": [],
+    "quantum": []
+  },
+  "deadlines": [],
+  "rejections": [],
+  "report": {
+    "updated": "2026-11-18T07:50:43-05:00",
+    "full_report_url": "",
+    "intro": "",
+    "snapshots": "",
+    "disclaimer": "Research only, not financial advice.",
+    "takeaways": [],
+    "prelaunch": [],
+    "radar_only": [],
+    "tokens": [],
+    "safetrade_source": "",
+    "safetrade": [],
+    "safetrade_venue": {
+      "type": "",
+      "x": "",
+      "site": "",
+      "announcements": "",
+      "listing_posts": "",
+      "launchpad": "",
+      "trust_score": 0,
+      "steps": []
+    },
+    "notes": [],
+    "sources": []
+  }
+}
