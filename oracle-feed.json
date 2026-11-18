@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-11-18T08:18:35-05:00",
- "prices_updated": "2026-11-18T12:01:00-05:00",
+ "prices_updated": "2026-11-18T13:00:39-05:00",
  "snapshot_note": "Morning report, Nov 18, 2026. Snapshots only.",
  "status": {
   "state": "idle",
@@ -32,9 +32,9 @@
      "score": 80
     }
    ],
-   "price": 41.88,
-   "market_cap": 14640693,
-   "volume_24h": 527433,
+   "price": 41.64,
+   "market_cap": 14565100,
+   "volume_24h": 531696,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents; Solana: Raydium",
    "next_milestone": "",
    "milestone_date": "",
@@ -56,11 +56,11 @@
      "url": "https://www.bitrue.com/blog/quantus-qtc-bitrue-listing"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com/",
    "cg_id": "quantus",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   },
   {
    "name": "Pearl",
@@ -75,9 +75,9 @@
      "score": 72
     }
    ],
-   "price": 2.14,
-   "market_cap": 821621869,
-   "volume_24h": 38373203,
+   "price": 2.1,
+   "market_cap": 805201761,
+   "volume_24h": 40820492,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents",
    "next_milestone": "",
    "milestone_date": "",
@@ -99,11 +99,11 @@
      "url": "https://www.learnpearl.org/which-pearl/"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/pearl.png",
    "website": "https://pearlresearch.ai/",
    "cg_id": "pearl-2",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   },
   {
    "name": "Quip Network",
@@ -159,9 +159,9 @@
      "score": 66
     }
    ],
-   "price": 0.00022597,
-   "market_cap": 1261573,
-   "volume_24h": 178564,
+   "price": 0.00022642,
+   "market_cap": 1265291,
+   "volume_24h": 178207,
    "dex_route": "No DEX route found (CEX only: NonKYC, SafeTrade, Biconomy)",
    "next_milestone": "SOQUPOOL stratum closes (miners move to LuxxPool)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -187,11 +187,11 @@
      "url": "https://x.com/soqucoin/status/2122796954128466176"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   },
   {
    "name": "Gonka",
@@ -206,9 +206,9 @@
      "score": 62
     }
    ],
-   "price": 0.159851,
+   "price": 0.159849,
    "market_cap": null,
-   "volume_24h": 4200.78,
+   "volume_24h": 750.48,
    "dex_route": "No DEX route found (Gonka chain native; SafeTrade only on CoinGecko)",
    "next_milestone": "",
    "milestone_date": "",
@@ -230,11 +230,11 @@
      "url": "https://gonka.ai/docs/network-updates/"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/gonka.png",
    "website": "https://gonka.ai",
    "cg_id": "gonka",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   },
   {
    "name": "Axis Robotics",
@@ -249,9 +249,9 @@
      "score": 58
     }
    ],
-   "price": 0.087526,
-   "market_cap": 14441803,
-   "volume_24h": 5426690,
+   "price": 0.088394,
+   "market_cap": 14587475,
+   "volume_24h": 3988159,
    "dex_route": "Base: Uniswap V4",
    "next_milestone": "",
    "milestone_date": "",
@@ -269,11 +269,11 @@
      "url": "https://github.com/AxisAIOrg"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai/",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   },
   {
    "name": "Qubic",
@@ -288,9 +288,9 @@
      "score": 58
     }
    ],
-   "price": 3.5312e-07,
-   "market_cap": 51979279,
-   "volume_24h": 3729382,
+   "price": 3.55741e-07,
+   "market_cap": 52315392,
+   "volume_24h": 2802476,
    "dex_route": "No DEX route found (CEX only)",
    "next_milestone": "Open Science AMA on ARC-AGI-3 (10 AM ET, live on X)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -308,11 +308,11 @@
      "url": "https://x.com/_Qubic_/status/2122739932988874903"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/qubic.png",
    "website": "https://qubic.org/",
    "cg_id": "qubic-network",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   },
   {
    "name": "TensorCash",
@@ -328,8 +328,8 @@
     }
    ],
    "price": 2.7,
-   "market_cap": 12418529,
-   "volume_24h": 51664,
+   "market_cap": 12420853,
+   "volume_24h": 61486,
    "dex_route": "No DEX route found (SafeTrade only)",
    "next_milestone": "",
    "milestone_date": "",
@@ -351,11 +351,11 @@
      "url": "https://bitcointalk.org/index.php?topic=5588724.0"
     }
    ],
-   "last_update": "2026-11-18T12:01:00-05:00",
+   "last_update": "2026-11-18T13:00:39-05:00",
    "logo": "logos/tensorcash.png",
    "website": "https://tensorcash.org/",
    "cg_id": "tensorcash",
-   "price_updated": "2026-11-18T12:01:00-05:00"
+   "price_updated": "2026-11-18T13:00:39-05:00"
   }
  ],
  "prelaunch_updates": [
