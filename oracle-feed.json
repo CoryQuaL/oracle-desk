@@ -1,19 +1,21 @@
 {
- "generated_at": "2026-11-18T08:07:35-05:00",
- "prices_updated": "2026-11-18T08:07:28-05:00",
- "snapshot_note": "First limited test sweep, Nov 18, 2026. Snapshots only.",
+ "generated_at": "2026-11-18T08:18:35-05:00",
+ "prices_updated": "2026-11-18T08:18:38-05:00",
+ "snapshot_note": "Morning report, Nov 18, 2026. Snapshots only.",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-18T08:07:35-05:00",
+  "last_scan": "2026-11-18T08:18:35-05:00",
   "next_scan": "2026-11-19T08:00:00-05:00",
   "activity": [
+   "8:22 AM ET: morning report done; nothing new cleared the filter",
+   "8:18 AM ET: SafeTrade diff: 0 new listings (48 bases)",
    "8:07 AM ET: first test sweep done; 8 on watchlist (1 strong), 6 rejected",
    "7:57 AM ET: SafeTrade baseline saved (48 base tickers)",
    "8:00 AM ET: 59 tracked X handles verified, none failed"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 986
+  "x_reads_left_today": 987
  },
  "alerts": [],
  "watchlist": [
@@ -30,9 +32,9 @@
      "score": 80
     }
    ],
-   "price": 41.76,
-   "market_cap": 14582887,
-   "volume_24h": 658102,
+   "price": 41.66,
+   "market_cap": 14535469,
+   "volume_24h": 656701,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents; Solana: Raydium",
    "next_milestone": "",
    "milestone_date": "",
@@ -54,11 +56,11 @@
      "url": "https://www.bitrue.com/blog/quantus-qtc-bitrue-listing"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com/",
    "cg_id": "quantus",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   },
   {
    "name": "Pearl",
@@ -74,8 +76,8 @@
     }
    ],
    "price": 1.8,
-   "market_cap": 689002769,
-   "volume_24h": 25565203,
+   "market_cap": 689427296,
+   "volume_24h": 25181952,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents",
    "next_milestone": "",
    "milestone_date": "",
@@ -97,11 +99,11 @@
      "url": "https://www.learnpearl.org/which-pearl/"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/pearl.png",
    "website": "https://pearlresearch.ai/",
    "cg_id": "pearl-2",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   },
   {
    "name": "Quip Network",
@@ -157,9 +159,9 @@
      "score": 66
     }
    ],
-   "price": 0.00022302,
-   "market_cap": 1239407,
-   "volume_24h": 181577,
+   "price": 0.00022312,
+   "market_cap": 1241003,
+   "volume_24h": 180948,
    "dex_route": "No DEX route found (CEX only: NonKYC, SafeTrade, Biconomy)",
    "next_milestone": "SOQUPOOL stratum closes (miners move to LuxxPool)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -185,11 +187,11 @@
      "url": "https://x.com/soqucoin/status/2122796954128466176"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   },
   {
    "name": "Gonka",
@@ -204,9 +206,9 @@
      "score": 62
     }
    ],
-   "price": 0.139865,
+   "price": 0.139863,
    "market_cap": null,
-   "volume_24h": 3667.99,
+   "volume_24h": 3667.95,
    "dex_route": "No DEX route found (Gonka chain native; SafeTrade only on CoinGecko)",
    "next_milestone": "",
    "milestone_date": "",
@@ -228,11 +230,11 @@
      "url": "https://gonka.ai/docs/network-updates/"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/gonka.png",
    "website": "https://gonka.ai",
    "cg_id": "gonka",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   },
   {
    "name": "Axis Robotics",
@@ -247,9 +249,9 @@
      "score": 58
     }
    ],
-   "price": 0.088208,
-   "market_cap": 14554277,
-   "volume_24h": 3841407,
+   "price": 0.088467,
+   "market_cap": 14595930,
+   "volume_24h": 3834124,
    "dex_route": "Base: Uniswap V4",
    "next_milestone": "",
    "milestone_date": "",
@@ -267,11 +269,11 @@
      "url": "https://github.com/AxisAIOrg"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai/",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   },
   {
    "name": "Qubic",
@@ -286,9 +288,9 @@
      "score": 58
     }
    ],
-   "price": 3.59153e-07,
-   "market_cap": 52867349,
-   "volume_24h": 3218843,
+   "price": 3.66778e-07,
+   "market_cap": 54121817,
+   "volume_24h": 3376723,
    "dex_route": "No DEX route found (CEX only)",
    "next_milestone": "Open Science AMA on ARC-AGI-3 (10 AM ET, live on X)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -306,11 +308,11 @@
      "url": "https://x.com/_Qubic_/status/2122739932988874903"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/qubic.png",
    "website": "https://qubic.org/",
    "cg_id": "qubic-network",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   },
   {
    "name": "TensorCash",
@@ -325,9 +327,9 @@
      "score": 52
     }
    ],
-   "price": 2.7,
-   "market_cap": 12414011,
-   "volume_24h": 78129,
+   "price": 2.73,
+   "market_cap": 12557760,
+   "volume_24h": 79045,
    "dex_route": "No DEX route found (SafeTrade only)",
    "next_milestone": "",
    "milestone_date": "",
@@ -349,14 +351,22 @@
      "url": "https://bitcointalk.org/index.php?topic=5588724.0"
     }
    ],
-   "last_update": "2026-11-18T08:07:28-05:00",
+   "last_update": "2026-11-18T08:18:38-05:00",
    "logo": "logos/tensorcash.png",
    "website": "https://tensorcash.org/",
    "cg_id": "tensorcash",
-   "price_updated": "2026-11-18T08:07:28-05:00"
+   "price_updated": "2026-11-18T08:18:38-05:00"
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "TermiX AI",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "TermiX x Kaito creator campaign reward pool raised from 0.3% to 0.4% of token supply and extended through TGE (no TGE date). Radar only, not scored; content-for-points, not a free claim. Ignore any 'claim' links.",
+   "at": "2026-11-18T05:24:23-05:00",
+   "url": "https://x.com/termix_ai/status/2122999350884458849"
+  },
   {
    "project": "Soqucoin",
    "theme": "Quantum",
@@ -512,10 +522,10 @@
   }
  ],
  "report": {
-  "updated": "2026-11-18T08:07:35-05:00",
+  "updated": "2026-11-18T08:18:35-05:00",
   "full_report_url": "",
-  "intro": "First limited test sweep (last 24-48 hours, AI and Quantum at equal priority). One strong candidate (Quantus, 80), seven WATCH items and six rejections. No new SafeTrade listings can be flagged yet: this run saved the first baseline of 48 base tickers.",
-  "snapshots": "Snapshots, not real-time: SafeTrade tickers and CoinGecko categories pulled 7:57-8:05 AM ET Nov 18; prices then refresh hourly from CoinGecko.",
+  "intro": "Morning report, Wed Nov 18. Quiet delta since the 8:07 AM ET test sweep: no new SafeTrade listings (48 base tickers, unchanged), no new AI or quantum names on CoinGecko's new-listings page, and nothing new cleared the filter. Quantus (80) remains the only strong candidate; 7 WATCH.",
+  "snapshots": "Snapshots, not real-time: SafeTrade tickers, CoinGecko new listings and X pulled 8:17-8:22 AM ET Nov 18; prices refresh hourly from CoinGecko.",
   "disclaimer": "Research only, not financial advice. Never connect a wallet, sign or share keys. Small caps and thin books can move fast and go to zero.",
   "takeaways": [
    "Quantus (80) is the only strong candidate: ML-DSA since genesis, mainnet since Sep 9, now on Bitrue (Nov 9) and Raydium (Nov 12) on top of NEAR routes. It is down 26% over 7 days.",
