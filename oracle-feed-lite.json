@@ -1,12 +1,15 @@
 {
- "generated_at": "2026-11-18T08:18:35-05:00",
- "prices_updated": "2026-11-19T07:58:53-05:00",
- "snapshot_note": "Morning report, Nov 18, 2026. Snapshots only.",
+ "generated_at": "2026-11-19T08:25:35-05:00",
+ "prices_updated": "2026-11-19T08:25:35-05:00",
+ "snapshot_note": "Morning report, Nov 19, 2026. Snapshots only.",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-18T08:18:35-05:00",
-  "next_scan": "2026-11-19T08:00:00-05:00",
+  "last_scan": "2026-11-19T08:25:35-05:00",
+  "next_scan": "2026-11-20T08:00:00-05:00",
   "activity": [
+   "8:25 AM ET: morning report done; 1 new WATCH (NeoSoul), Gonka cut to 55, 2 rejected",
+   "8:22 AM ET: 76 of 78 Tier B/C X handles verified (2 not found)",
+   "8:19 AM ET: SafeTrade diff: 1 new base (CNX, listed Jul 14), 1 dropped (ZEC)",
    "8:22 AM ET: morning report done; nothing new cleared the filter",
    "8:18 AM ET: SafeTrade diff: 0 new listings (48 bases)",
    "8:07 AM ET: first test sweep done; 8 on watchlist (1 strong), 6 rejected",
@@ -15,7 +18,7 @@
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 987
+  "x_reads_left_today": 986
  },
  "alerts": [],
  "watchlist": [
@@ -30,14 +33,18 @@
     {
      "date": "2026-11-18",
      "score": 80
+    },
+    {
+     "date": "2026-11-19",
+     "score": 80
     }
    ],
-   "price": 39.73,
-   "market_cap": 13952008,
-   "volume_24h": 473818,
+   "price": 39.54,
+   "market_cap": 13887104,
+   "volume_24h": 464545,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents; Solana: Raydium",
-   "next_milestone": "",
-   "milestone_date": "",
+   "next_milestone": "Quantum Alliance X Space with founding contributors (10 AM ET)",
+   "milestone_date": "Thursday, Nov 19, 2026",
    "links": [
     {
      "label": "X",
@@ -54,13 +61,17 @@
     {
      "label": "Bitrue listing",
      "url": "https://www.bitrue.com/blog/quantus-qtc-bitrue-listing"
+    },
+    {
+     "label": "Quantum Alliance Space post",
+     "url": "https://x.com/QuantusNetwork/status/2123098351319056551"
     }
    ],
-   "last_update": "2026-11-19T07:58:53-05:00",
+   "last_update": "2026-11-19T08:25:35-05:00",
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com/",
    "cg_id": "quantus",
-   "price_updated": "2026-11-19T07:58:53-05:00"
+   "price_updated": "2026-11-19T08:25:35-05:00"
   },
   {
    "name": "Pearl",
@@ -73,11 +84,15 @@
     {
      "date": "2026-11-18",
      "score": 72
+    },
+    {
+     "date": "2026-11-19",
+     "score": 72
     }
    ],
-   "price": 2.32,
-   "market_cap": 891166700,
-   "volume_24h": 59694472,
+   "price": 2.27,
+   "market_cap": 870850308,
+   "volume_24h": 58422833,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents",
    "next_milestone": "",
    "milestone_date": "",
@@ -99,11 +114,11 @@
      "url": "https://www.learnpearl.org/which-pearl/"
     }
    ],
-   "last_update": "2026-11-19T07:58:53-05:00",
+   "last_update": "2026-11-19T08:25:35-05:00",
    "logo": "logos/pearl.png",
    "website": "https://pearlresearch.ai/",
    "cg_id": "pearl-2",
-   "price_updated": "2026-11-19T07:58:53-05:00"
+   "price_updated": "2026-11-19T08:25:35-05:00"
   },
   {
    "name": "Quip Network",
@@ -115,6 +130,10 @@
    "score_history": [
     {
      "date": "2026-11-18",
+     "score": 70
+    },
+    {
+     "date": "2026-11-19",
      "score": 70
     }
    ],
@@ -140,6 +159,10 @@
     {
      "label": "Blockworks filing",
      "url": "https://blockworks.com/token-transparency/filing/quip-network"
+    },
+    {
+     "label": "XQuad demos post",
+     "url": "https://x.com/quipnetwork/status/2123129864798519337"
     }
    ],
    "last_update": "2026-11-18T08:07:35-05:00",
@@ -157,13 +180,17 @@
     {
      "date": "2026-11-18",
      "score": 66
+    },
+    {
+     "date": "2026-11-19",
+     "score": 66
     }
    ],
-   "price": 0.00019128,
-   "market_cap": 1090280,
-   "volume_24h": 155766,
+   "price": 0.00019074,
+   "market_cap": 1087433,
+   "volume_24h": 157442,
    "dex_route": "No DEX route found (CEX only: NonKYC, SafeTrade, Biconomy)",
-   "next_milestone": "SOQUPOOL stratum closes (miners move to LuxxPool)",
+   "next_milestone": "SOQUPOOL stratum closes at 11 AM ET (miners move to LuxxPool); next release Soqutomic Swaps (no date)",
    "milestone_date": "Thursday, Nov 19, 2026",
    "links": [
     {
@@ -185,32 +212,181 @@
     {
      "label": "SoquShield launch post",
      "url": "https://x.com/soqucoin/status/2122796954128466176"
+    },
+    {
+     "label": "SOQUPOOL close reminder",
+     "url": "https://x.com/soqucoin/status/2123138172225995206"
     }
    ],
-   "last_update": "2026-11-19T07:58:53-05:00",
+   "last_update": "2026-11-19T08:25:35-05:00",
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-19T07:58:53-05:00"
+   "price_updated": "2026-11-19T08:25:35-05:00"
+  },
+  {
+   "name": "NeoSoul",
+   "ticker": "DNA",
+   "theme": "AI",
+   "stage": "Trading since TGE Oct 16, 2026; Bithumb KRW listing Nov 13",
+   "tier": "WATCH",
+   "score": 60,
+   "score_history": [
+    {
+     "date": "2026-11-19",
+     "score": 60
+    }
+   ],
+   "price": 0.158048,
+   "market_cap": 20546200,
+   "volume_24h": 22955827,
+   "dex_route": "BNB Chain: PancakeSwap",
+   "next_milestone": "Team, investor and treasury unlocks start month 13 (about Oct 2027); no near-term date",
+   "milestone_date": "",
+   "links": [
+    {
+     "label": "X",
+     "url": "https://x.com/NeoSoulAI"
+    },
+    {
+     "label": "CoinGecko",
+     "url": "https://www.coingecko.com/en/coins/neosoul"
+    },
+    {
+     "label": "Tokenomics (official PDF)",
+     "url": "https://www.neosoul.ai/assets/DNA_Tokenomics_Article_EN_v2-D-qJyoK5.pdf"
+    },
+    {
+     "label": "$11M Pre-A (official blog)",
+     "url": "https://medium.com/@NeoSoul_AI/neosoul-raises-11m-in-pre-a-funding-to-build-the-infrastructure-for-the-ai-economy-c4db7f29cb27"
+    },
+    {
+     "label": "Explainer (Gate Learn)",
+     "url": "https://www.gate.com/learn/articles/what-is-neosoul-dna-ai-agent-economy"
+    }
+   ],
+   "last_update": "2026-11-19T08:25:35-05:00",
+   "logo": "logos/neosoul.png",
+   "website": "https://neosoul.ai/",
+   "cg_id": "neosoul",
+   "price_updated": "2026-11-19T08:25:35-05:00"
+  },
+  {
+   "name": "Axis Robotics",
+   "ticker": "AXIS",
+   "theme": "AI",
+   "stage": "Trading (first listed late Oct 2026)",
+   "tier": "WATCH",
+   "score": 58,
+   "score_history": [
+    {
+     "date": "2026-11-18",
+     "score": 58
+    },
+    {
+     "date": "2026-11-19",
+     "score": 58
+    }
+   ],
+   "price": 0.092744,
+   "market_cap": 15302698,
+   "volume_24h": 4838927,
+   "dex_route": "Base: Uniswap V4",
+   "next_milestone": "",
+   "milestone_date": "",
+   "links": [
+    {
+     "label": "X",
+     "url": "https://x.com/axisrobotics"
+    },
+    {
+     "label": "CoinGecko",
+     "url": "https://www.coingecko.com/en/coins/axis-robotics"
+    },
+    {
+     "label": "GitHub",
+     "url": "https://github.com/AxisAIOrg"
+    },
+    {
+     "label": "Skills Atlas post",
+     "url": "https://x.com/axisrobotics/status/2123347834095448439"
+    }
+   ],
+   "last_update": "2026-11-19T08:25:35-05:00",
+   "logo": "logos/axis-robotics.png",
+   "website": "https://axisrobotics.ai/",
+   "cg_id": "axis-robotics",
+   "price_updated": "2026-11-19T08:25:35-05:00"
+  },
+  {
+   "name": "Qubic",
+   "ticker": "QUBIC",
+   "theme": "AI",
+   "stage": "Mainnet",
+   "tier": "WATCH",
+   "score": 58,
+   "score_history": [
+    {
+     "date": "2026-11-18",
+     "score": 58
+    },
+    {
+     "date": "2026-11-19",
+     "score": 58
+    }
+   ],
+   "price": 3.44432e-07,
+   "market_cap": 50700450,
+   "volume_24h": 1461187,
+   "dex_route": "No DEX route found (CEX only)",
+   "next_milestone": "Open Science AMA on ARC-AGI-3 today (10 AM ET, live on X)",
+   "milestone_date": "Thursday, Nov 19, 2026",
+   "links": [
+    {
+     "label": "X",
+     "url": "https://x.com/_Qubic_"
+    },
+    {
+     "label": "CoinGecko",
+     "url": "https://www.coingecko.com/en/coins/qubic-network"
+    },
+    {
+     "label": "AMA announcement",
+     "url": "https://x.com/_Qubic_/status/2122739932988874903"
+    },
+    {
+     "label": "ARC-AGI-3 result post",
+     "url": "https://x.com/_Qubic_/status/2123375437610995913"
+    }
+   ],
+   "last_update": "2026-11-19T08:25:35-05:00",
+   "logo": "logos/qubic.png",
+   "website": "https://qubic.org/",
+   "cg_id": "qubic-network",
+   "price_updated": "2026-11-19T08:25:35-05:00"
   },
   {
    "name": "Gonka",
    "ticker": "GNK",
    "theme": "AI",
-   "stage": "Mainnet; only tracked venue is SafeTrade",
+   "stage": "Mainnet; Ethereum bridge (WGNK) exploited Nov 18, project says funds fully returned",
    "tier": "WATCH",
-   "score": 62,
+   "score": 55,
    "score_history": [
     {
      "date": "2026-11-18",
      "score": 62
+    },
+    {
+     "date": "2026-11-19",
+     "score": 55
     }
    ],
-   "price": 0.129887,
+   "price": 0.149867,
    "market_cap": null,
-   "volume_24h": 16654.35,
-   "dex_route": "No DEX route found (Gonka chain native; SafeTrade only on CoinGecko)",
-   "next_milestone": "",
+   "volume_24h": 19227.77,
+   "dex_route": "Ethereum: Uniswap (WGNK) is under a project warning not to use or trade it; no safe DEX route",
+   "next_milestone": "Bridge post-mortem, WGNK backing and bridge reopening (no date)",
    "milestone_date": "",
    "links": [
     {
@@ -228,91 +404,25 @@
     {
      "label": "Network updates",
      "url": "https://gonka.ai/docs/network-updates/"
+    },
+    {
+     "label": "Bridge incident post",
+     "url": "https://x.com/gonka_ai/status/2123210678211318257"
+    },
+    {
+     "label": "Funds returned post",
+     "url": "https://x.com/gonka_ai/status/2123343930729353317"
+    },
+    {
+     "label": "Exploit report (CoinLab)",
+     "url": "https://coinlab.info/en/news/gonka-ethereum-bridge-exploit-nov-2026/"
     }
    ],
-   "last_update": "2026-11-19T07:58:53-05:00",
+   "last_update": "2026-11-19T08:25:35-05:00",
    "logo": "logos/gonka.png",
    "website": "https://gonka.ai",
    "cg_id": "gonka",
-   "price_updated": "2026-11-19T07:58:53-05:00"
-  },
-  {
-   "name": "Axis Robotics",
-   "ticker": "AXIS",
-   "theme": "AI",
-   "stage": "Trading (first listed late Oct 2026)",
-   "tier": "WATCH",
-   "score": 58,
-   "score_history": [
-    {
-     "date": "2026-11-18",
-     "score": 58
-    }
-   ],
-   "price": 0.091548,
-   "market_cap": 15105394,
-   "volume_24h": 4772961,
-   "dex_route": "Base: Uniswap V4",
-   "next_milestone": "",
-   "milestone_date": "",
-   "links": [
-    {
-     "label": "X",
-     "url": "https://x.com/axisrobotics"
-    },
-    {
-     "label": "CoinGecko",
-     "url": "https://www.coingecko.com/en/coins/axis-robotics"
-    },
-    {
-     "label": "GitHub",
-     "url": "https://github.com/AxisAIOrg"
-    }
-   ],
-   "last_update": "2026-11-19T07:58:53-05:00",
-   "logo": "logos/axis-robotics.png",
-   "website": "https://axisrobotics.ai/",
-   "cg_id": "axis-robotics",
-   "price_updated": "2026-11-19T07:58:53-05:00"
-  },
-  {
-   "name": "Qubic",
-   "ticker": "QUBIC",
-   "theme": "AI",
-   "stage": "Mainnet",
-   "tier": "WATCH",
-   "score": 58,
-   "score_history": [
-    {
-     "date": "2026-11-18",
-     "score": 58
-    }
-   ],
-   "price": 3.44832e-07,
-   "market_cap": 50759255,
-   "volume_24h": 1541510,
-   "dex_route": "No DEX route found (CEX only)",
-   "next_milestone": "Open Science AMA on ARC-AGI-3 (10 AM ET, live on X)",
-   "milestone_date": "Thursday, Nov 19, 2026",
-   "links": [
-    {
-     "label": "X",
-     "url": "https://x.com/_Qubic_"
-    },
-    {
-     "label": "CoinGecko",
-     "url": "https://www.coingecko.com/en/coins/qubic-network"
-    },
-    {
-     "label": "AMA announcement",
-     "url": "https://x.com/_Qubic_/status/2122739932988874903"
-    }
-   ],
-   "last_update": "2026-11-19T07:58:53-05:00",
-   "logo": "logos/qubic.png",
-   "website": "https://qubic.org/",
-   "cg_id": "qubic-network",
-   "price_updated": "2026-11-19T07:58:53-05:00"
+   "price_updated": "2026-11-19T08:25:35-05:00"
   },
   {
    "name": "TensorCash",
@@ -325,14 +435,18 @@
     {
      "date": "2026-11-18",
      "score": 52
+    },
+    {
+     "date": "2026-11-19",
+     "score": 52
     }
    ],
    "price": 2.9,
-   "market_cap": 13361251,
-   "volume_24h": 73421,
+   "market_cap": 13361031,
+   "volume_24h": 73410,
    "dex_route": "No DEX route found (SafeTrade only)",
-   "next_milestone": "",
-   "milestone_date": "",
+   "next_milestone": "v1.2.5 block-history pricing activates at block 36,875 (about 7 AM ET)",
+   "milestone_date": "Friday, Nov 20, 2026",
    "links": [
     {
      "label": "X",
@@ -349,16 +463,76 @@
     {
      "label": "Bitcointalk ANN",
      "url": "https://bitcointalk.org/index.php?topic=5588724.0"
+    },
+    {
+     "label": "v1.2.5 release post",
+     "url": "https://x.com/Tensorcash/status/2123340951603073308"
     }
    ],
-   "last_update": "2026-11-19T07:58:53-05:00",
+   "last_update": "2026-11-19T08:25:35-05:00",
    "logo": "logos/tensorcash.png",
    "website": "https://tensorcash.org/",
    "cg_id": "tensorcash",
-   "price_updated": "2026-11-19T07:58:53-05:00"
+   "price_updated": "2026-11-19T08:25:35-05:00"
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "Qubic",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Science team says its ARC-AGI-3 competition submission reached 0.41 (up from a 0.13 starting best) with no GPUs or LLMs, and calls it a low absolute score. Open Science AMA today at 10 AM ET.",
+   "at": "2026-11-19T06:18:49-05:00",
+   "url": "https://x.com/_Qubic_/status/2123375437610995913"
+  },
+  {
+   "project": "Axis Robotics",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Opened its Skills Atlas: 30 to 100 human demos per task train an \"Expert\" policy in simulation, which is then distilled into reusable skills. Product progress, not a token event.",
+   "at": "2026-11-19T04:29:00-05:00",
+   "url": "https://x.com/axisrobotics/status/2123347834095448439"
+  },
+  {
+   "project": "Gonka",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Gonka says funds taken in the Nov 18 Ethereum bridge exploit were fully returned. No amounts or transactions were published, and the earlier warning not to use or trade WGNK or the bridge was not withdrawn. Blockaid estimated about $1.05M taken; consensus and inference were unaffected.",
+   "at": "2026-11-19T04:14:00-05:00",
+   "url": "https://x.com/gonka_ai/status/2123343930729353317"
+  },
+  {
+   "project": "TensorCash",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "v1.2.5 adds block-history pricing (work needed depends on earlier blocks from the same payout address). Activates at block 36,875, about Fri Nov 20 7 AM ET; block producers must upgrade, and sovereign verifiers need ruleset 7 before block 37,375.",
+   "at": "2026-11-19T04:01:47-05:00",
+   "url": "https://x.com/Tensorcash/status/2123340951603073308"
+  },
+  {
+   "project": "Soqucoin",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Reminder: SOQUPOOL stratum closes today at 11 AM ET with one final payout and nothing to claim. LuxxPool is the official partner (LTC/DOGE/SOQ merge-mining, 0.75% fee through Jan 20, 2027).",
+   "at": "2026-11-18T14:36:00-05:00",
+   "url": "https://x.com/soqucoin/status/2123138172225995206"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Shows two demos (a trading game and a logistics dispatch problem) on XQuad, the toolchain behind its QVM. The chain audit is still pending, with no mainnet or TGE date.",
+   "at": "2026-11-18T14:03:00-05:00",
+   "url": "https://x.com/quipnetwork/status/2123129864798519337"
+  },
+  {
+   "project": "Quantus",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Quantum Alliance founding contributors (including Quantus and Quip CTO Richard Carback) host an X Space today at 10 AM ET on how \"quantum-ready\" will be defined.",
+   "at": "2026-11-18T11:57:00-05:00",
+   "url": "https://x.com/QuantusNetwork/status/2123098351319056551"
+  },
   {
    "project": "TermiX AI",
    "theme": "AI",
@@ -376,73 +550,51 @@
    "url": "https://x.com/soqucoin/status/2122796954128466176"
   },
   {
-   "project": "Qubic",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "Open Science AMA on ARC-AGI-3 with the Qubic science team, Thursday Nov 19 at 10 AM ET, live on X.",
-   "at": "2026-11-17T12:13:00-05:00",
-   "url": "https://x.com/_Qubic_/status/2122739932988874903"
-  },
-  {
    "project": "Soqucoin",
    "theme": "Quantum",
    "source_type": "official",
    "text": "Roadmap updated Nov 16: SOQUPOOL merges into LuxxPool and its stratum closes Nov 19 at 16:00 UTC. Next release is Soqutomic Swaps (no date).",
    "at": "2026-11-16T12:00:00-05:00",
    "url": "https://soqu.org/roadmap"
-  },
-  {
-   "project": "Quip Network",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Order is chain audit, then mainnet, then TGE, with no date. Project-filed Blockworks disclosure publishes tokenomics and vesting; Oak Security audited the swap contracts and signature verifier; no listing agreements yet.",
-   "at": "2026-11-16T12:00:00-05:00",
-   "url": "https://tgeindex.com/tge/quip-network/"
-  },
-  {
-   "project": "Pearl",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "Kraken opened PEARL funding and trading on Nov 13. Watch the ticker trap: on Coinbase, Upbit, KuCoin, Gate and MEXC, \"PRL\" is Perle, an unrelated Solana token.",
-   "at": "2026-11-13T12:00:00-05:00",
-   "url": "https://outposts.io/project/kraken/article/kraken-lists-pearl-token-of-pearl-s-proof-of-useful-work-l1-cmwf1t3k801kj08l2d0sthxhe"
   }
  ],
  "digest": {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "top3": [
    {
     "name": "Quantus",
-    "why": "Strong (80): ML-DSA since genesis, mainnet live, new Bitrue and Raydium access.",
+    "why": "Strong (80): ML-DSA since genesis; Quantum Alliance X Space today at 10 AM ET.",
     "logo": "logos/quantus.png",
     "url": "https://www.quantus.com/"
    },
    {
-    "name": "Pearl",
-    "why": "WATCH (72): AI proof-of-useful-work L1, Kraken listing Nov 13, top SafeTrade volume.",
-    "logo": "logos/pearl.png",
-    "url": "https://pearlresearch.ai/"
+    "name": "NeoSoul",
+    "why": "New WATCH (60): AI-agent trading infrastructure, $11M Pre-A, published tokenomics; X promotion looks farmed.",
+    "logo": "logos/neosoul.png",
+    "url": "https://neosoul.ai/"
    },
    {
-    "name": "Quip Network",
-    "why": "WATCH (70): best-documented pre-launch PQ project; no TGE date yet.",
-    "logo": "logos/quip-network.png",
-    "url": "https://quip.network/"
+    "name": "Gonka",
+    "why": "Cut to 55: Ethereum bridge exploited Nov 18; project says funds returned, but WGNK warnings stand.",
+    "logo": "logos/gonka.png",
+    "url": "https://gonka.ai"
    }
   ],
   "ai": [
-   "Pearl (72): Kraken listing Nov 13; PRL/PEARL ticker look-alikes are a trap",
-   "Gonka (62): live AI inference network, SafeTrade-only price",
-   "Axis Robotics (58): new physical-AI data token on Base Uniswap V4",
-   "Qubic (58): Open Science AMA Thu Nov 19, 10 AM ET",
-   "TensorCash (52): proof-of-inference PoW, pseudonymous team",
-   "Rejected 5 AI presales and launches (see rejections)"
+   "NeoSoul (60): new WATCH; BNB Chain PancakeSwap route; Bithumb KRW since Nov 13",
+   "Gonka (62 -> 55): bridge exploit, about $1.05M; funds reported returned; avoid WGNK",
+   "TensorCash (52): v1.2.5 activates about Fri Nov 20, 7 AM ET",
+   "Qubic (58): ARC-AGI-3 score 0.41; AMA today 10 AM ET",
+   "Axis Robotics (58): Skills Atlas opened (product update)",
+   "Pearl (72): no new official info",
+   "Crynux rejected (47): not a new listing; thin, falling"
   ],
   "quantum": [
-   "Quantus (80): strong; Raydium and Bitrue added this month",
-   "Quip Network (70): pre-TGE, audit then mainnet then TGE",
-   "Soqucoin (66): ML-DSA-44 wallet live; SOQUPOOL closes Nov 19",
-   "Parano1d rejected (46): pseudonymous, SafeTrade-only"
+   "Quantus (80): Quantum Alliance X Space today 10 AM ET",
+   "Soqucoin (66): SOQUPOOL stratum closes today 11 AM ET",
+   "Quip Network (70): XQuad demos; chain audit still pending",
+   "Context: Bittensor ML-DSA-65/Falcon wallets live on mainnet (TAO, not scored)",
+   "DAC Quantum Chain rejected (25): ECDSA under \"quantum\" branding; TGE postponed"
   ]
  },
  "deadlines": [
@@ -456,6 +608,15 @@
    "status": "open"
   },
   {
+   "project": "Quantus",
+   "theme": "Quantum",
+   "title": "Quantum Alliance founding-contributors X Space (with Quip CTO and Quantus)",
+   "type": "event",
+   "date": "2026-11-19T10:00:00-05:00",
+   "url": "https://x.com/QuantusNetwork/status/2123098351319056551",
+   "status": "open"
+  },
+  {
    "project": "Soqucoin",
    "theme": "Quantum",
    "title": "SOQUPOOL stratum closes; miners move to LuxxPool",
@@ -463,76 +624,58 @@
    "date": "2026-11-19T11:00:00-05:00",
    "url": "https://soqu.org/roadmap",
    "status": "open"
+  },
+  {
+   "project": "TensorCash",
+   "theme": "AI",
+   "title": "v1.2.5 block-history pricing activates at block 36,875 (estimated time; block producers must upgrade)",
+   "type": "upgrade",
+   "date": "2026-11-20T07:00:00-05:00",
+   "url": "https://x.com/Tensorcash/status/2123340951603073308",
+   "status": "open"
   }
  ],
  "rejections": [
+  {
+   "name": "DAC Quantum Chain",
+   "ticker": "DACT",
+   "theme": "Quantum",
+   "score": 25,
+   "reason": "\"Quantum-resistant\" branding while keeping standard ECDSA signatures (no NIST PQ scheme); TGE moved from Nov 22 to TBA and the ChainGPT Pad sale was reported refunded; heavily farmed X promotion.",
+   "at": "2026-11-19T08:25:35-05:00",
+   "url": "https://cryptolaxy.com/event/dac-chain-dact-token-generation-event"
+  },
+  {
+   "name": "Crynux",
+   "ticker": "CNX",
+   "theme": "AI",
+   "score": 47,
+   "reason": "Showed up as new in the SafeTrade diff but was listed there Jul 14; about $1M market cap, down about 66% in 30 days, at an all-time low today, with a few hundred dollars of SafeTrade volume. Team and backing not verified.",
+   "at": "2026-11-19T08:25:35-05:00",
+   "url": "https://safetrade.com/crypto/cnx"
+  },
   {
    "name": "Parano1d",
    "ticker": "NOID",
    "theme": "Quantum",
    "score": 46,
-   "reason": "Pseudonymous solo founder, no audit, SafeTrade-only liquidity and down 46% in 7 days; code and PQ research are public, so re-check later.",
+   "reason": "Unchanged from Nov 18: pseudonymous solo founder, no audit, SafeTrade-only liquidity. Code and PQ research are public; re-check later.",
    "at": "2026-11-18T08:07:35-05:00",
    "url": "https://parano1d.org"
-  },
-  {
-   "name": "Amadeus Protocol",
-   "ticker": "AMA",
-   "theme": "AI",
-   "score": 45,
-   "reason": "No announced TGE date or tokenomics; points paid for trading volume and engagement looks farmed.",
-   "at": "2026-11-18T08:07:35-05:00",
-   "url": "https://www.coingabbar.com/en/amadeus-protocol-token-road-to-tge-live-season-1-closes"
-  },
-  {
-   "name": "JuvrixAI",
-   "ticker": "JUX",
-   "theme": "AI",
-   "score": 30,
-   "reason": "Paid press-release presale before any testnet, audit or product.",
-   "at": "2026-11-18T08:07:35-05:00",
-   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401346/0/en/juvrixai-announces-jux-token-presale-ahead-of-ai-agent-builder-launch-on-near-protocol.html"
-  },
-  {
-   "name": "ConConAI",
-   "ticker": "CON",
-   "theme": "AI",
-   "score": 12,
-   "reason": "Presale pitching a \"guaranteed\" listing at double the presale price.",
-   "at": "2026-11-18T08:07:35-05:00",
-   "url": "https://cvj.ai/briefing/crypto-news/conconais-con-presale-ai-utility-token-at-0-005-before-0-01-listing/"
-  },
-  {
-   "name": "Whale Signals",
-   "ticker": "WHALE",
-   "theme": "AI",
-   "score": 10,
-   "reason": "Presale advertising \"projected ROI\" per stage (guaranteed-return style) with countdown hype.",
-   "at": "2026-11-18T08:07:35-05:00",
-   "url": "https://whalesignals.app/whale-token"
-  },
-  {
-   "name": "STARS AI",
-   "ticker": "STARS",
-   "theme": "AI",
-   "score": 8,
-   "reason": "Fair-mint shill from an unknown account with no team, product or docs.",
-   "at": "2026-11-18T08:07:35-05:00",
-   "url": "https://x.com/i/status/2122309787681685912"
   }
  ],
  "report": {
-  "updated": "2026-11-18T08:18:35-05:00",
+  "updated": "2026-11-19T08:25:35-05:00",
   "full_report_url": "",
-  "intro": "Morning report, Wed Nov 18. Quiet delta since the 8:07 AM ET test sweep: no new SafeTrade listings (48 base tickers, unchanged), no new AI or quantum names on CoinGecko's new-listings page, and nothing new cleared the filter. Quantus (80) remains the only strong candidate; 7 WATCH.",
-  "snapshots": "Snapshots, not real-time: SafeTrade tickers, CoinGecko new listings and X pulled 8:17-8:22 AM ET Nov 18; prices refresh hourly from CoinGecko.",
+  "intro": "Morning report, Thu Nov 19. One new WATCH: NeoSoul (DNA, 60), an AI-agent trading project. Gonka is cut to 55 after its Ethereum bridge was exploited Nov 18; the project says the funds were returned. SafeTrade showed one new base ticker, CNX (Crynux), but it was listed in July, so it is a CoinGecko coverage change and was rejected at 47. Quantus (80) remains the only strong candidate. Today: Qubic AMA and Quantum Alliance Space at 10 AM ET, SOQUPOOL closes at 11 AM ET.",
+  "snapshots": "Snapshots, not real-time: SafeTrade tickers, CoinGecko categories/new listings, safetrade.com/help and X pulled 8:19-8:35 AM ET Nov 19; prices refresh hourly from CoinGecko.",
   "disclaimer": "Research only, not financial advice. Never connect a wallet, sign or share keys. Small caps and thin books can move fast and go to zero.",
   "takeaways": [
-   "Quantus (80) is the only strong candidate: ML-DSA since genesis, mainnet since Sep 9, now on Bitrue (Nov 9) and Raydium (Nov 12) on top of NEAR routes. It is down 26% over 7 days.",
-   "Pearl is the biggest SafeTrade name by far ($4.7M SafeTrade volume, about $688M market cap) after Kraken on Nov 13. Watch the PRL/PEARL ticker look-alikes.",
-   "Quip Network is the best-documented pre-launch quantum project (named team, published tokenomics, Oak audit) but has no TGE date, so it is capped at 74.",
-   "Soqucoin shipped its ML-DSA-44 wallet on Nov 17; miners on SOQUPOOL must move to LuxxPool by Nov 19 at 11 AM ET.",
-   "AI presales are noisy this week. Whale Signals, ConConAI, JuvrixAI and STARS AI were rejected for return promises, guaranteed listings or no product."
+   "Gonka: an attacker changed the Ethereum bridge key on Nov 18, drained about $885K in stablecoins and minted 22M unbacked WGNK (Blockaid estimated about $1.05M). Gonka says all funds were returned but gave no details and still says not to use or trade WGNK. Score cut from 62 to 55.",
+   "NeoSoul (DNA) is a new WATCH at 60. It has a named co-founder, an $11M Pre-A (Amber Group, ArkStream, 0G Foundation and others), a live NeoTrade product and published tokenomics with 12-month insider locks. Risks: farmed-looking promotion, a 13% float against about a $160M FDV, and no audit found.",
+   "SafeTrade: the only new base, CNX, has been listed since Jul 14 (CoinGecko just started tracking it). The latest real listing is Proxima (PROX, Nov 13), a blockless DAG L1 outside the AI and quantum themes.",
+   "Quantum: Bittensor now supports ML-DSA-65 and Falcon wallets on mainnet. That is a sign that established chains are adopting NIST PQ schemes; TAO is context, not a new launch. DAC Quantum Chain was rejected for keeping ECDSA behind \"quantum\" branding.",
+   "Today: Qubic Open Science AMA and the Quantum Alliance Space (Quantus, Quip) both at 10 AM ET; SOQUPOOL stratum closes at 11 AM ET. Tomorrow about 7 AM ET: TensorCash v1.2.5 activates."
   ],
   "prelaunch": [
    {
@@ -542,7 +685,16 @@
     "coming": "TGE after chain audit and mainnet",
     "when": "No date announced",
     "score": 70,
-    "why": "Named team (PostQuant Labs; CTO Richard Carback), published tokenomics and vesting, Oak Security audit; chain audit still pending."
+    "why": "Named team (PostQuant Labs; CTO Richard Carback), published tokenomics and vesting, Oak Security audit of swaps; chain audit still pending. New XQuad toolchain demos on Nov 18."
+   },
+   {
+    "project": "DAC Quantum Chain",
+    "ticker": "DACT",
+    "theme": "Quantum",
+    "coming": "TGE",
+    "when": "Moved from Nov 22 to TBA (reported)",
+    "score": 25,
+    "why": "REJECT: keeps ECDSA signatures under quantum branding; ChainGPT Pad sale reported refunded; farmed promotion."
    },
    {
     "project": "Amadeus Protocol",
@@ -551,10 +703,13 @@
     "coming": "TGE",
     "when": "Project estimate \"around end of November\", not a set date",
     "score": 45,
-    "why": "REJECT: points paid for trading volume, farmed engagement, no tokenomics or venues published."
+    "why": "REJECT (Nov 18): points paid for trading volume, farmed engagement, no tokenomics or venues published."
    }
   ],
   "radar_only": [
+   "Bittensor (TAO): ML-DSA-65/Falcon wallets live on mainnet",
+   "Proxima (PROX): new SafeTrade listing Nov 13, blockless DAG L1 (not AI/quantum)",
+   "Blocknet (BNT): SafeTrade Oct 28, \"planned\" post-quantum",
    "Naoris Protocol (NAORIS)",
    "Verona (VERONA)",
    "QANplatform (QANX)",
@@ -565,8 +720,7 @@
    "TermiX AI",
    "Nesa (NES)",
    "QMS Network",
-   "jagent (unvetted)",
-   "Zolva Agent (unvetted new CoinGecko listing)"
+   "Pi Network: Testnet1 V30 with ML-DSA (fan-account claim, unverified)"
   ],
   "tokens": [
    {
@@ -575,9 +729,9 @@
     "theme": "Quantum",
     "category": "Post-quantum PoW L1 (ML-DSA)",
     "tier": "WATCH",
-    "price": 41.98,
-    "market_cap": 14659266,
-    "volume_24h": 659726,
+    "price": 39.73,
+    "market_cap": 13952008,
+    "volume_24h": 473818,
     "score": 80,
     "dex": "NEAR: Rhea Finance and NEAR Intents; Solana: Raydium"
    },
@@ -587,9 +741,9 @@
     "theme": "AI",
     "category": "Proof-of-Useful-Work AI L1",
     "tier": "WATCH",
-    "price": 1.8,
-    "market_cap": 688159852,
-    "volume_24h": 25808755,
+    "price": 2.32,
+    "market_cap": 891166700,
+    "volume_24h": 59694472,
     "score": 72,
     "dex": "NEAR: Rhea Finance and NEAR Intents"
    },
@@ -599,23 +753,23 @@
     "theme": "Quantum",
     "category": "Post-quantum PoW L1 (ML-DSA-44)",
     "tier": "WATCH",
-    "price": 0.00022318,
-    "market_cap": 1240317,
-    "volume_24h": 182187,
+    "price": 0.00019128,
+    "market_cap": 1090280,
+    "volume_24h": 155766,
     "score": 66,
     "dex": "No DEX route found (CEX only: NonKYC, SafeTrade, Biconomy)"
    },
    {
-    "project": "Gonka",
-    "ticker": "GNK",
+    "project": "NeoSoul",
+    "ticker": "DNA",
     "theme": "AI",
-    "category": "Decentralized AI inference",
+    "category": "AI-agent trading infrastructure (BNB Chain)",
     "tier": "WATCH",
-    "price": 0.13986,
-    "market_cap": null,
-    "volume_24h": 3667.86,
-    "score": 62,
-    "dex": "No DEX route found (Gonka chain native; SafeTrade only on CoinGecko)"
+    "price": 0.159897,
+    "market_cap": 20786625,
+    "volume_24h": 26843550,
+    "score": 60,
+    "dex": "BNB Chain: PancakeSwap"
    },
    {
     "project": "Axis Robotics",
@@ -623,9 +777,9 @@
     "theme": "AI",
     "category": "Physical-AI data network",
     "tier": "WATCH",
-    "price": 0.088114,
-    "market_cap": 14538797,
-    "volume_24h": 3849370,
+    "price": 0.091548,
+    "market_cap": 15105394,
+    "volume_24h": 4772961,
     "score": 58,
     "dex": "Base: Uniswap V4"
    },
@@ -635,11 +789,23 @@
     "theme": "AI",
     "category": "AI-focused L1 (useful PoW)",
     "tier": "WATCH",
-    "price": 3.53657e-07,
-    "market_cap": 52095388,
-    "volume_24h": 3229927,
+    "price": 3.44832e-07,
+    "market_cap": 50759255,
+    "volume_24h": 1541510,
     "score": 58,
     "dex": "No DEX route found (CEX only)"
+   },
+   {
+    "project": "Gonka",
+    "ticker": "GNK",
+    "theme": "AI",
+    "category": "Decentralized AI inference",
+    "tier": "WATCH",
+    "price": 0.129887,
+    "market_cap": null,
+    "volume_24h": 16654.35,
+    "score": 55,
+    "dex": "Ethereum: Uniswap (WGNK) is under a project warning not to use or trade it; no safe DEX route"
    },
    {
     "project": "TensorCash",
@@ -647,9 +813,9 @@
     "theme": "AI",
     "category": "Proof-of-inference AI L1",
     "tier": "WATCH",
-    "price": 2.7,
-    "market_cap": 12413850,
-    "volume_24h": 78171,
+    "price": 2.9,
+    "market_cap": 13361251,
+    "volume_24h": 73421,
     "score": 52,
     "dex": "No DEX route found (SafeTrade only)"
    },
@@ -659,23 +825,35 @@
     "theme": "Quantum",
     "category": "Proof-native PQ L1",
     "tier": "REJECT",
-    "price": 0.166486,
-    "market_cap": 2042276,
-    "volume_24h": 86482,
+    "price": 0.155768,
+    "market_cap": null,
+    "volume_24h": 54765,
     "score": 46,
     "dex": "No DEX route found (SafeTrade only)"
+   },
+   {
+    "project": "Crynux",
+    "ticker": "CNX",
+    "theme": "AI",
+    "category": "Decentralized AI compute (Base)",
+    "tier": "REJECT",
+    "price": 0.00059945,
+    "market_cap": 1041084,
+    "volume_24h": 193.83,
+    "score": 47,
+    "dex": "Base: Uniswap V4"
    }
   ],
-  "safetrade_source": "CoinGecko public API, exchanges/safe_trade/tickers pages 1-2, pulled 7:57 AM ET Nov 18, 2026 (58 tickers, 48 base assets; page 2 empty). First baseline saved; next run diffs against it.",
+  "safetrade_source": "CoinGecko public API, exchanges/safe_trade/tickers pages 1-2, pulled 8:19 AM ET Nov 19, 2026 (60 tickers, 48 base assets; page 2 empty). Diff vs Nov 18 baseline: +CNX (Crynux, listed on SafeTrade Jul 14; new to CoinGecko), -ZEC. safetrade.com/help loaded: latest listing Proxima (PROX) Nov 13.",
   "safetrade": [
    {
     "project": "Pearl",
     "ticker": "PEARL",
     "theme": "AI",
     "pair": "PEARL/USDT",
-    "price": 1.79,
+    "price": 2.27,
     "market_cap": 688159852,
-    "volume_24h": 4722292,
+    "volume_24h": 12730158,
     "score": 72,
     "tier": "WATCH",
     "dex": "NEAR: Rhea Finance, NEAR Intents",
@@ -686,9 +864,9 @@
     "ticker": "QUANTUS",
     "theme": "Quantum",
     "pair": "QUANTUS/USDT",
-    "price": 41.91,
+    "price": 39.49,
     "market_cap": 14659266,
-    "volume_24h": 86644,
+    "volume_24h": 53172,
     "score": 80,
     "tier": "WATCH",
     "dex": "NEAR: Rhea Finance, NEAR Intents; Solana: Raydium",
@@ -699,9 +877,9 @@
     "ticker": "TSC",
     "theme": "AI",
     "pair": "TSC/USDT",
-    "price": 2.7,
+    "price": 2.9,
     "market_cap": 12413850,
-    "volume_24h": 78170,
+    "volume_24h": 73408,
     "score": 52,
     "tier": "WATCH",
     "dex": "",
@@ -712,9 +890,9 @@
     "ticker": "QUBIC",
     "theme": "AI",
     "pair": "QUBIC/USDT",
-    "price": 3.61632e-07,
+    "price": 3.44685e-07,
     "market_cap": 52095388,
-    "volume_24h": 34754,
+    "volume_24h": 38626,
     "score": 58,
     "tier": "WATCH",
     "dex": "",
@@ -725,9 +903,9 @@
     "ticker": "SOQ",
     "theme": "Quantum",
     "pair": "SOQ/USDT",
-    "price": 0.00022397,
+    "price": 0.00019033,
     "market_cap": 1240317,
-    "volume_24h": 34082,
+    "volume_24h": 12282.93,
     "score": 66,
     "tier": "WATCH",
     "dex": "",
@@ -738,9 +916,9 @@
     "ticker": "NOID",
     "theme": "Quantum",
     "pair": "NOID/USDT",
-    "price": 0.160438,
+    "price": 0.155768,
     "market_cap": 2042276,
-    "volume_24h": 83886,
+    "volume_24h": 54765,
     "score": 46,
     "tier": "REJECT",
     "dex": "",
@@ -751,22 +929,22 @@
     "ticker": "GNK",
     "theme": "AI",
     "pair": "GNK/USDT",
-    "price": 0.139858,
+    "price": 0.149863,
     "market_cap": null,
-    "volume_24h": 3667.81,
-    "score": 62,
+    "volume_24h": 19227.32,
+    "score": 55,
     "tier": "WATCH",
     "dex": "",
-    "note": "SafeTrade is its only tracked venue; thin volume."
+    "note": "Bridge exploit Nov 18 (funds reported returned). SafeTrade still its main tracked venue."
    },
    {
     "project": "Neptune Cash",
     "ticker": "NPT",
     "theme": "Quantum",
     "pair": "NPT/USDT",
-    "price": 0.129868,
+    "price": 0.129881,
     "market_cap": 612967,
-    "volume_24h": 1664.99,
+    "volume_24h": 2777.85,
     "score": null,
     "tier": "",
     "dex": "",
@@ -777,13 +955,26 @@
     "ticker": "CLORE",
     "theme": "AI",
     "pair": "CLORE/USDT",
-    "price": 0.00153842,
+    "price": 0.00140879,
     "market_cap": 839140,
-    "volume_24h": 393.13,
+    "volume_24h": 899.64,
     "score": null,
     "tier": "",
     "dex": "",
     "note": "Not scored this run; very thin volume."
+   },
+   {
+    "project": "Crynux",
+    "ticker": "CNX",
+    "theme": "AI",
+    "pair": "CNX/USDT",
+    "price": 0.00059945,
+    "market_cap": 1041084,
+    "volume_24h": 193.83,
+    "score": 47,
+    "tier": "REJECT",
+    "dex": "Base: Uniswap V4",
+    "note": "New in the CoinGecko diff, but listed on SafeTrade Jul 14; thin and at an all-time low."
    }
   ],
   "safetrade_venue": {
@@ -817,22 +1008,22 @@
    {
     "section": "safetrade",
     "theme": "",
-    "text": "Also on SafeTrade but outside the AI/Quantum themes: NOCK/USDT $0.0150 (vol $27,238), XTM/USDT $0.00059 (vol $6,615), XEL/USDT $0.1168 (vol $57). QTC/USDT there ($0.39) is Qubitcoin, not Quantus."
+    "text": "ZEC/USDT no longer appears in CoinGecko's SafeTrade tickers (outside themes; not investigated). QTC/USDT there is Qubitcoin, not Quantus."
+   },
+   {
+    "section": "tokens",
+    "theme": "AI",
+    "text": "CoinGecko AI category churn was micro-caps crossing the top-250 cutoff (Reppo, SN92, several sub-$70K agent tokens); none scored. ai-agent-launchpad and quantum-resistant had no additions."
    },
    {
     "section": "tokens",
     "theme": "Quantum",
-    "text": "CoinGecko has no quantum-computing category (the API returned no coins); quantum coverage used the quantum-resistant category (30 coins)."
-   },
-   {
-    "section": "tokens",
-    "theme": "AI",
-    "text": "Scanned the top 250 coins by market cap in artificial-intelligence and ai-agents, plus ai-agent-launchpad (116). Only AXIS and TSC were both new and credible; the rest of the new names were micro-cap meme-style agents."
+    "text": "Bittensor ML-DSA-65/Falcon wallets: official docs confirm support; Taostats-cited reporting says root activation is on. Verify wallet-client support before use."
    },
    {
     "section": "prelaunch",
     "theme": "AI",
-    "text": "Fraction AI missed its Nov 11 TGE date with no new date (TGE Index). It stays radar-only until the project posts a date."
+    "text": "Launchpads: no new AI or quantum sale found on Legion, Buidlpad, Echo/Sonar or MetaDAO (web check). Virtuals Genesis was retired in Oct 2025 per search results."
    }
   ],
   "sources": [
@@ -841,76 +1032,80 @@
     "url": "https://api.coingecko.com/api/v3/exchanges/safe_trade/tickers?page=1"
    },
    {
-    "title": "CoinGecko quantum-resistant category",
-    "url": "https://www.coingecko.com/en/categories/quantum-resistant"
+    "title": "SafeTrade Help Center (listings)",
+    "url": "https://safetrade.com/help"
    },
    {
-    "title": "CoinGecko AI category",
-    "url": "https://www.coingecko.com/en/categories/artificial-intelligence"
+    "title": "SafeTrade Crynux page",
+    "url": "https://safetrade.com/crypto/cnx"
+   },
+   {
+    "title": "SafeTrade Proxima listing",
+    "url": "https://safetrade.com/announcements/proxima-listing"
    },
    {
     "title": "CoinGecko new cryptocurrencies",
     "url": "https://www.coingecko.com/en/new-cryptocurrencies"
    },
    {
-    "title": "Quantus on Raydium (RWA News)",
-    "url": "https://rwanews.network/post-quantum-money-just-landed-on-solana-quantus-qtc-now-trading-live-on-raydium/"
+    "title": "Gonka bridge incident (CoinLab)",
+    "url": "https://coinlab.info/en/news/gonka-ethereum-bridge-exploit-nov-2026/"
    },
    {
-    "title": "Quantus Bitrue listing",
-    "url": "https://www.bitrue.com/blog/quantus-qtc-bitrue-listing"
+    "title": "Gonka bridge exploit (The Defiant)",
+    "url": "https://thedefiant.io/news/hacks/gonka-bridge-exploit-drains-stablecoins-mints-wgnk"
    },
    {
-    "title": "Pearl ticker guide",
-    "url": "https://www.learnpearl.org/which-pearl/"
+    "title": "NeoSoul tokenomics",
+    "url": "https://www.neosoul.ai/assets/DNA_Tokenomics_Article_EN_v2-D-qJyoK5.pdf"
    },
    {
-    "title": "Pearl on Kraken (Outposts)",
-    "url": "https://outposts.io/project/kraken/article/kraken-lists-pearl-token-of-pearl-s-proof-of-useful-work-l1-cmwf1t3k801kj08l2d0sthxhe"
+    "title": "NeoSoul $11M Pre-A",
+    "url": "https://medium.com/@NeoSoul_AI/neosoul-raises-11m-in-pre-a-funding-to-build-the-infrastructure-for-the-ai-economy-c4db7f29cb27"
    },
    {
-    "title": "Quip Network TGE Index",
-    "url": "https://tgeindex.com/tge/quip-network/"
+    "title": "Bittensor wallet crypto types",
+    "url": "https://www.bittensor.com/docs/guides/wallet-crypto-types"
+   },
+   {
+    "title": "Bittensor PQ wallets status (TAO Media)",
+    "url": "https://www.tao.media/what-are-post-quantum-wallets-on-bittensor-ml-dsa-falcon-and-activation-status/"
+   },
+   {
+    "title": "DACT TGE postponed (Cryptolaxy)",
+    "url": "https://cryptolaxy.com/event/dac-chain-dact-token-generation-event"
+   },
+   {
+    "title": "TensorCash v1.2.5",
+    "url": "https://x.com/Tensorcash/status/2123340951603073308"
+   },
+   {
+    "title": "Qubic ARC-AGI-3 post",
+    "url": "https://x.com/_Qubic_/status/2123375437610995913"
+   },
+   {
+    "title": "Quantum Alliance Space",
+    "url": "https://x.com/QuantusNetwork/status/2123098351319056551"
+   },
+   {
+    "title": "SOQUPOOL close reminder",
+    "url": "https://x.com/soqucoin/status/2123138172225995206"
+   },
+   {
+    "title": "Quip XQuad demos",
+    "url": "https://x.com/quipnetwork/status/2123129864798519337"
+   },
+   {
+    "title": "Axis Skills Atlas",
+    "url": "https://x.com/axisrobotics/status/2123347834095448439"
    },
    {
     "title": "Soqucoin roadmap",
     "url": "https://soqu.org/roadmap"
    },
    {
-    "title": "Soqucoin Biconomy listing",
-    "url": "https://biconomy.zendesk.com/hc/en-us/articles/63702843256217-Biconomy-com-New-Listing-Soqucoin-SOQ-for-Spot-Trading"
-   },
-   {
-    "title": "TensorCash whitepaper",
-    "url": "https://tensorcash.org/whitepapers/TensorCash_Whitepaper-modern.pdf"
-   },
-   {
-    "title": "TensorCash team interview",
-    "url": "https://crypto-lowcap.com/tensorcash-interview-dont-trust-verify-with-imosuke-takakuni/"
-   },
-   {
-    "title": "Gonka GitHub",
-    "url": "https://github.com/gonka-ai/gonka/"
-   },
-   {
-    "title": "Parano1d soundness research",
-    "url": "https://lab.parano1d.org/research/parano1d-nist-pqc-category-one/"
-   },
-   {
-    "title": "TGE calendar Nov 2026 (TGE Index)",
-    "url": "https://tgeindex.com/tge/november-2026/"
-   },
-   {
-    "title": "Amadeus Road to TGE (CoinGabbar)",
-    "url": "https://www.coingabbar.com/en/amadeus-protocol-token-road-to-tge-live-season-1-closes"
-   },
-   {
-    "title": "Qubic AMA post",
-    "url": "https://x.com/_Qubic_/status/2122739932988874903"
-   },
-   {
-    "title": "SoquShield post",
-    "url": "https://x.com/soqucoin/status/2122796954128466176"
+    "title": "Quip Network TGE Index",
+    "url": "https://tgeindex.com/tge/quip-network/"
    }
   ]
  }
