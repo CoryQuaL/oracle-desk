@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-11-19T08:25:35-05:00",
- "prices_updated": "2026-11-20T00:59:34-05:00",
+ "prices_updated": "2026-11-20T01:58:48-05:00",
  "snapshot_note": "Morning report, Nov 19, 2026. Snapshots only.",
  "status": {
   "state": "idle",
@@ -39,9 +39,9 @@
      "score": 80
     }
    ],
-   "price": 38.2,
-   "market_cap": 13465918,
-   "volume_24h": 437413,
+   "price": 37.49,
+   "market_cap": 13228198,
+   "volume_24h": 445327,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents; Solana: Raydium",
    "next_milestone": "Quantum Alliance X Space with founding contributors (10 AM ET)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -67,11 +67,11 @@
      "url": "https://x.com/QuantusNetwork/status/2123098351319056551"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com/",
    "cg_id": "quantus",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "Pearl",
@@ -90,9 +90,9 @@
      "score": 72
     }
    ],
-   "price": 1.91,
-   "market_cap": 735499230,
-   "volume_24h": 34975447,
+   "price": 1.89,
+   "market_cap": 728615627,
+   "volume_24h": 33715175,
    "dex_route": "NEAR: Rhea Finance and NEAR Intents",
    "next_milestone": "",
    "milestone_date": "",
@@ -114,11 +114,11 @@
      "url": "https://www.learnpearl.org/which-pearl/"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/pearl.png",
    "website": "https://pearlresearch.ai/",
    "cg_id": "pearl-2",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "Quip Network",
@@ -186,9 +186,9 @@
      "score": 66
     }
    ],
-   "price": 0.00015096,
-   "market_cap": 875392,
-   "volume_24h": 149486,
+   "price": 0.00016508,
+   "market_cap": 957543,
+   "volume_24h": 163677,
    "dex_route": "No DEX route found (CEX only: NonKYC, SafeTrade, Biconomy)",
    "next_milestone": "SOQUPOOL stratum closes at 11 AM ET (miners move to LuxxPool); next release Soqutomic Swaps (no date)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -218,11 +218,11 @@
      "url": "https://x.com/soqucoin/status/2123138172225995206"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "NeoSoul",
@@ -237,9 +237,9 @@
      "score": 60
     }
    ],
-   "price": 0.152576,
-   "market_cap": 19834901,
-   "volume_24h": 22019679,
+   "price": 0.149323,
+   "market_cap": 19360164,
+   "volume_24h": 20762440,
    "dex_route": "BNB Chain: PancakeSwap",
    "next_milestone": "Team, investor and treasury unlocks start month 13 (about Oct 2027); no near-term date",
    "milestone_date": "",
@@ -265,11 +265,11 @@
      "url": "https://www.gate.com/learn/articles/what-is-neosoul-dna-ai-agent-economy"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/neosoul.png",
    "website": "https://neosoul.ai/",
    "cg_id": "neosoul",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "Axis Robotics",
@@ -288,9 +288,9 @@
      "score": 58
     }
    ],
-   "price": 0.090788,
-   "market_cap": 14980027,
-   "volume_24h": 5098977,
+   "price": 0.091993,
+   "market_cap": 15183969,
+   "volume_24h": 5170330,
    "dex_route": "Base: Uniswap V4",
    "next_milestone": "",
    "milestone_date": "",
@@ -312,11 +312,11 @@
      "url": "https://x.com/axisrobotics/status/2123347834095448439"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai/",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "Qubic",
@@ -335,9 +335,9 @@
      "score": 58
     }
    ],
-   "price": 3.29875e-07,
-   "market_cap": 48557554,
-   "volume_24h": 1153996,
+   "price": 3.27195e-07,
+   "market_cap": 48153052,
+   "volume_24h": 1012401,
    "dex_route": "No DEX route found (CEX only)",
    "next_milestone": "Open Science AMA on ARC-AGI-3 today (10 AM ET, live on X)",
    "milestone_date": "Thursday, Nov 19, 2026",
@@ -359,11 +359,11 @@
      "url": "https://x.com/_Qubic_/status/2123375437610995913"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/qubic.png",
    "website": "https://qubic.org/",
    "cg_id": "qubic-network",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "Gonka",
@@ -384,7 +384,7 @@
    ],
    "price": 0.159862,
    "market_cap": null,
-   "volume_24h": 6431.48,
+   "volume_24h": 6432.5,
    "dex_route": "Ethereum: Uniswap (WGNK) is under a project warning not to use or trade it; no safe DEX route",
    "next_milestone": "Bridge post-mortem, WGNK backing and bridge reopening (no date)",
    "milestone_date": "",
@@ -418,11 +418,11 @@
      "url": "https://coinlab.info/en/news/gonka-ethereum-bridge-exploit-nov-2026/"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/gonka.png",
    "website": "https://gonka.ai",
    "cg_id": "gonka",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   },
   {
    "name": "TensorCash",
@@ -442,8 +442,8 @@
     }
    ],
    "price": 2.6,
-   "market_cap": 12004359,
-   "volume_24h": 35477,
+   "market_cap": 12005788,
+   "volume_24h": 43751,
    "dex_route": "No DEX route found (SafeTrade only)",
    "next_milestone": "v1.2.5 block-history pricing activates at block 36,875 (about 7 AM ET)",
    "milestone_date": "Friday, Nov 20, 2026",
@@ -469,11 +469,11 @@
      "url": "https://x.com/Tensorcash/status/2123340951603073308"
     }
    ],
-   "last_update": "2026-11-20T00:59:34-05:00",
+   "last_update": "2026-11-20T01:58:48-05:00",
    "logo": "logos/tensorcash.png",
    "website": "https://tensorcash.org/",
    "cg_id": "tensorcash",
-   "price_updated": "2026-11-20T00:59:34-05:00"
+   "price_updated": "2026-11-20T01:58:48-05:00"
   }
  ],
  "prelaunch_updates": [
